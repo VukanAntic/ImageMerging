@@ -163,4 +163,5 @@ cython_debug/
 
 dataset/
 training_checkpoints/
+training_checkpoints_*/
 logs/
